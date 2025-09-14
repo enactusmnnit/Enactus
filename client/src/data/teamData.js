@@ -33,7 +33,8 @@ import UtsavPandey from '../assets/Teams/TeamMembers/ResearchDevelopmentTeam/Uts
 
 import alok from '../assets/Teams/TeamMembers/FieldOfficer/alok.JPG';
 import Dhruv from '../assets/Teams/TeamMembers/FieldOfficer/Dhruv.jpg';
-import Ashutosh from '../assets/Teams/TeamMembers/FieldOfficer/Ashutosh.jpeg';
+import AshutoshSingh from '../assets/Teams/TeamMembers/FieldOfficer/AshutoshSingh.jpeg';
+import AshutoshKumar from '../assets/Teams/TeamMembers/FieldOfficer/Ashutosh.jpeg';
 import vivek from '../assets/Teams/TeamMembers/FieldOfficer/vivek.jpeg';
 import prajjwal from '../assets/Teams/TeamMembers/FieldOfficer/Prajjwal.jpg';
  import neelakshi from '../assets/Teams/TeamMembers/FieldOfficer/neelakshi.jpeg';
@@ -53,6 +54,7 @@ import GaganKumar from '../assets/Teams/TeamMembers/DesignTeam/Gagan Kumar.jpg';
 import Palakshi from '../assets/Teams/TeamMembers/DesignTeam/Palakshi.jpg';
 import RahulKharwar from '../assets/Teams/TeamMembers/DesignTeam/RahulKharwar.jpg';
 import ShreshthGadhwala from  '../assets/Teams/TeamMembers/DesignTeam/ShreshthGadhwala.jpg';
+import SuyashRanjan from  '../assets/Teams/TeamMembers/DesignTeam/Suyash Ranjan.jpg';
 
 import HumanshiSingh from '../assets/Teams/TeamMembers/MarketingTeam/HumanshiSingh.jpg';
 import ShaghilJawed from '../assets/Teams/TeamMembers/MarketingTeam/ShaghilJawed.jpg';
@@ -62,6 +64,7 @@ import AashutoshPathak from '../assets/Teams/TeamMembers/MarketingTeam/Aashutosh
 import PragyanAnsh from '../assets/Teams/TeamMembers/MarketingTeam/pragyan ansh.jpg';
 import PrakharKumarShandilya from '../assets/Teams/TeamMembers/MarketingTeam/Prakhar Kumar Shandilya.jpg';
 import PrabhatShukla from '../assets/Teams/TeamMembers/MarketingTeam/Prabhat Shukla.jpeg';
+import BhumitVyas from '../assets/Teams/TeamMembers/MarketingTeam/Bhumit.jpg';
 
 import ShauryaRajSrivastava from '../assets/Teams/TeamMembers/Shaurya Raj Srivastava.jpg';
 import AniketShah from '../assets/Teams/TeamMembers/Aniket Shah.jpg';
@@ -217,6 +220,14 @@ export const teamData = {
         email: "shresthgadhwala.p@gmail.com",
         linkedin: "https://www.linkedin.com/in/shresth2301/",
         image: ShreshthGadhwala,
+        position: "Content Writer"
+      },
+      {
+        name: "Suyash Ranjan ",
+        year: "2027",
+        email: "Suyash.20221105@mnnit.ac.in",
+        linkedin: "https://www.linkedin.com/in/ranjansuyash?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        image: SuyashRanjan,
         position: "Content Writer"
       },
       {
@@ -395,7 +406,7 @@ export const teamData = {
         year: "2027",
         email: "ay182025@gmail.com",
         linkedin: "https://www.linkedin.com/in/ashutosh-singh-yadav-2a462b2a7",
-        image: Ashutosh,
+        image: AshutoshSingh,
         position: "Field Officer"
       },
       {
@@ -430,6 +441,14 @@ export const teamData = {
          image: neelakshi,
          position: "Field Officer"
        },
+        {
+         name: "Ashutosh Kumar",
+         year: "2027",
+         email: "kumarashutosh30407@gmail.com",
+         linkedin: "http://www.linkedin.com/in/ashutoshkumar8",
+         image: AshutoshKumar,
+         position: "Field Officer"
+       },
       
     ],
     alumni: []
@@ -445,7 +464,7 @@ export const teamData = {
         email: "sanginibaingaha@gmail.com",
         linkedin: "https://www.linkedin.com/in/sangini-baingaha",
         image: SanginiBaingaha,
-        position: "Design Team Head"
+       position: "Content Team Head"
       },
       {
         name: "Divyanshu Purbey",
@@ -453,7 +472,7 @@ export const teamData = {
         email: "divyanshu.20222064@mnnit.ac.in",
         linkedin: "https://www.linkedin.com/in/divyanshu-purbey/",
         image: DivyanshuPurbey,
-        position: "Designer"
+        position: "Content Writer"
       },
       {
         name: "Gagan Kumar ",
@@ -461,7 +480,7 @@ export const teamData = {
         email: "gagan16903@gmail.com",
         linkedin: "https://www.linkedin.com/in/gagan-kumar-128007259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         image:GaganKumar,
-        position: "Designer"
+        position: "Content Writer"
       },
       {
         name: "Palakshi singh",
@@ -469,7 +488,7 @@ export const teamData = {
         email: "singhpalakshi157@gmail.com",
         linkedin: "https://www.linkedin.com/in/itsmepalakshi/",
         image: Palakshi ,
-        position: "Designer"
+       position: "Content Writer"
       },
       {
         name: "Rahul kharwar",
@@ -477,7 +496,7 @@ export const teamData = {
         email: "rahulkharwar250704@gmail.com",
         linkedin: "https://www.linkedin.com/in/rahul-kharwar-87775526a/",
         image: RahulKharwar,
-        position: "Designer"
+        position: "Content Writer"
       },
       {
         name: "Shresth Gadhwala",
@@ -485,31 +504,55 @@ export const teamData = {
         email: "shresthgadhwala.p@gmail.com",
         linkedin: "https://www.linkedin.com/in/shresth2301/",
         image: ShreshthGadhwala,
-        position: "Designer"
+        position: "Content Writer"
       },
       {
-        name: "Ayush Gupta",
+        name: "Suyash Ranjan ",
         year: "2027",
-        email: "nitian.ayush.gupta@gmail.com",
-        linkedin: "https://www.linkedin.com/in/ayush-gupta-201a21282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        image: AyushGupta,
-        position: "Designer"
+        email: "Suyash.20221105@mnnit.ac.in",
+        linkedin: "https://www.linkedin.com/in/ranjansuyash?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        image: SuyashRanjan,
+        position: "Content Writer"
       },
       {
         name: "Shreyansh Rathi ",
         year: "2027",
         email: "shreyanshrathi123@gmail.com",
         linkedin: "https://www.linkedin.com/in/shreyansh-rathi-b2b430291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        image: ShreyanshRathi,
-        position: "Designer"
+        image: Shreyansh,
+        position: "Content Writer"
+      },
+      {
+        name: "Mridul Prakash Verma ",
+        year: "2027",
+        email: "mridulprakashverma@gmail.com",
+        linkedin: "https://www.linkedin.com/in/mridulmnnit?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        image: Mridul,
+        position: "Content Writer"
       },
       {
         name: "Aryan Raj ",
         year: "2027",
         email: "aryanrj.arya@gmail.com",
         linkedin: "https://www.linkedin.com/in/aryarj?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        image: AryanRaj,
-        position: "Designer"
+        image: Aryan,
+        position: "Content Writer"
+      },
+      {
+        name: "Ayush Gupta  ",
+        year: "2027",
+        email: "nitian.ayush.gupta@gmail.com",
+        linkedin: "https://www.linkedin.com/in/ayush-gupta-201a21282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        image: Ayush,
+        position: "Content Writer"
+      },
+      {
+        name: "Shiv Sharan Shukla",
+        year: "2027",
+        email: "nitian.ayush.gupta@gmail.com",
+        linkedin: "https://www.linkedin.com/in/ayush-gupta-201a21282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        image: Shiv,
+        position: "Content Writer"
       }
     ],
     alumni: []
@@ -557,6 +600,14 @@ export const teamData = {
         email: "pragyanansh001@gmail.com",
         linkedin: "https://www.linkedin.com/in/pragyan-ansh-0b72ab298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         image: PragyanAnsh,
+        position: "Marketing Specialist"
+      },
+       {
+        name: "Vyas Bhumit",
+        year: "2027",
+        email: "bhumitvvyas@gmail.com",
+        linkedin: "https://www.linkedin.com/in/bhumit-vyas-01a376325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        image: BhumitVyas,
         position: "Marketing Specialist"
       },
       {
