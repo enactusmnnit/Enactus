@@ -10,6 +10,7 @@ import HimanshuTripathi from '../assets/Teams/TeamMembers/Himanshu Tripathi.jpeg
 import ShrutiMayank from '../assets/Teams/TeamMembers/Shruti Mayank.JPG';
 import MeenakshiGupta from '../assets/Teams/TeamMembers/WebTeam/MeenakshiGupta.jpeg'
 import DHruvMaheshwari from '../assets/Teams/TeamMembers/Dhruv_maheshwari.jpg'
+import YashPandey from '../assets/Teams/TeamMembers/WebTeam/yash_pandey.jpg'
 
 import Shreyansh from '../assets/Teams/TeamMembers/ContentTeam/Shreyansh.jpg';
 import Ayush from '../assets/Teams/TeamMembers/ContentTeam/Ayush.jpg';
@@ -79,6 +80,14 @@ export const teamData = {
         linkedin: "https://www.linkedin.com/in/meenakshi-gupta109",
         image: MeenakshiGupta,
         position: "Web Team Head"
+      },
+      {
+        name: "Yash Pandey",
+        year: "2026",
+        email: "yp5094280@gmail.com",
+        linkedin: "https://www.linkedin.com/in/yashpandey02",
+        image: YashPandey,
+        position: "Developer"
       },
       {
         name: "Dhruv Maheshwari",
