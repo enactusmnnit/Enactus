@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://enactus-mnnit2k25.netlify.app/sitemap.xml
+Sitemap: https://enactus-mnnit-allahabad.vercel.app/sitemap.xml
 
 # Crawl delay (optional)
 Crawl-delay: 1
