@@ -270,8 +270,8 @@ enactus-website2k25/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Ayush5071/enactus-website2k25.git
-cd enactus-website2k25
+git clone https://github.com/enactusmnnit/Enactus
+cd Enactus
 ```
 
 ### 2. Frontend Setup
