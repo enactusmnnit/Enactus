@@ -456,9 +456,9 @@ DELETE /api/news/:id        // Delete news (admin)
 
 ## 📞 Support & Contact
 
-- **Website**: [Enactus MNNIT](https://enactus-mnnit2k25.netlify.app)
+- **Website**: [Enactus MNNIT](https://enactus-mnnit-allahabad.vercel.app)
 - **Email**: contact@enactusmnnit.org
-- **GitHub**: [Repository Issues](https://github.com/Ayush5071/enactus-website2k25/issues)
+- **GitHub**: [Repository Issues](https://github.com/enactusmnnit/Enactus/issues)
 
 ---
 
