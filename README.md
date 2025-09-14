@@ -37,7 +37,7 @@ This website serves as our digital hub, showcasing our work, team, and impact wh
 
 ## 🚀 Live Demo
 
-**Production:** https://enactus-mnnit2k25.netlify.app
+**Production:** https://enactus-mnnit-allahabad.vercel.app
 
 ---
 
