@@ -37,7 +37,7 @@ This website serves as our digital hub, showcasing our work, team, and impact wh
 
 ## 🚀 Live Demo
 
-**Production:** https://enactus-mnnit2k25.netlify.app
+**Production:** https://enactus-mnnit-allahabad.vercel.app
 
 ---
 
@@ -270,8 +270,8 @@ enactus-website2k25/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Ayush5071/enactus-website2k25.git
-cd enactus-website2k25
+git clone https://github.com/enactusmnnit/Enactus
+cd Enactus
 ```
 
 ### 2. Frontend Setup
@@ -456,9 +456,9 @@ DELETE /api/news/:id        // Delete news (admin)
 
 ## 📞 Support & Contact
 
-- **Website**: [Enactus MNNIT](https://enactus-mnnit2k25.netlify.app)
+- **Website**: [Enactus MNNIT](https://enactus-mnnit-allahabad.vercel.app)
 - **Email**: contact@enactusmnnit.org
-- **GitHub**: [Repository Issues](https://github.com/Ayush5071/enactus-website2k25/issues)
+- **GitHub**: [Repository Issues](https://github.com/enactusmnnit/Enactus/issues)
 
 ---
 
