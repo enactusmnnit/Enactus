@@ -83,37 +83,10 @@ export const Carousel = ({ data = [] }) => {
           </motion.div>
         </AnimatePresence>
 
-        {/* Navigation Controls */}
-        <div className="absolute inset-x-0 bottom-2 flex justify-center gap-3 z-30">
-          <motion.button
-            onClick={prev}
-            whileHover={{ 
-              scale: 1.1, 
-              backgroundColor: "rgba(255, 255, 255, 0.2)",
-              boxShadow: "0 8px 32px rgba(255, 255, 255, 0.1)"
-            }}
-            whileTap={{ scale: 0.9 }}
-            className="flex items-center justify-center w-12 h-12 rounded-full bg-white/10 backdrop-blur-xl border border-white/20 hover:border-white/40 transition-all duration-300 group"
-          >
-            <IconArrowLeft className="w-5 h-5 text-white group-hover:text-blue-200 transition-colors" />
-          </motion.button>
-          
-          <motion.button
-            onClick={next}
-            whileHover={{ 
-              scale: 1.1, 
-              backgroundColor: "rgba(255, 255, 255, 0.2)",
-              boxShadow: "0 8px 32px rgba(255, 255, 255, 0.1)"
-            }}
-            whileTap={{ scale: 0.9 }}
-            className="flex items-center justify-center w-12 h-12 rounded-full bg-white/10 backdrop-blur-xl border border-white/20 hover:border-white/40 transition-all duration-300 group"
-          >
-            <IconArrowRight className="w-5 h-5 text-white group-hover:text-blue-200 transition-colors" />
-          </motion.button>
-        </div>
+        {/* Navigation Controls removed */}
 
         {/* Progress Indicators */}
-        <div className="absolute bottom-16 left-1/2 transform -translate-x-1/2 flex space-x-2 z-30">
+  <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 flex space-x-2 z-30">
           {data.map((_, index) => (
             <button
               key={index}
